@@ -33,4 +33,4 @@ For the project, the following tools were used:
 - DbVisualizer - for creating data graphs
 - Tableau - data visualizations
 - PowerPoint - final presentation
-ripts/
+
