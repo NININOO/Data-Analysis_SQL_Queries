@@ -30,7 +30,7 @@ ROCKBUSTER Data Set: http://www.postgresqltutorial.com/wp-content/uploads/2019/0
 ## Tools
 For the project, the following tools were used:
 - pgAdmin4 - SQL queries
-- DbVisualizer - for creating data graphs
+- DbVisualizer - for creating ERD (entity relationship diagram)
 - Tableau - data visualizations
 - PowerPoint - final presentation
 
