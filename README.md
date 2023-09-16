@@ -34,3 +34,9 @@ For the project, the following tools were used:
 - Tableau - data visualizations
 - PowerPoint - final presentation
 
+  ### Tableu Visualisations
+
+  Descriptive Statistics - https://public.tableau.com/views/Rockbuster-3-6task_Stekovic/Summariseddata?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+  Rockbuster Customer Base - https://public.tableau.com/app/profile/nikolina.stekovic/viz/Rockbuster_3-7_Stekovic/Rockbustercustomerbase1?publish=yes
+  Rockbuster Movie Base - https://public.tableau.com/app/profile/nikolina.stekovic/viz/Rockbuster_Movies_Stekovic/MoviesOverview?publish=yes
+
