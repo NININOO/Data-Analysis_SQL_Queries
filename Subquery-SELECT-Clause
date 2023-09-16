@@ -1,0 +1,9 @@
+Here is a SQL query with Subquery for maximum amount paid for any movie in the Rockbuster database
+
+SELECT title,
+       rating,
+       release_year,
+
+  (SELECT MAX(amount)
+   FROM payment) AS max_amount
+FROM film;
