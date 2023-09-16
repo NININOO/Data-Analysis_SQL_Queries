@@ -1,0 +1,11 @@
+Here is a SQL query with Subquery for how many films are rated G, PG, or PG-13, and how many films are less than 100-minutes long
+
+SELECT COUNT(shortmovies.film_ID) AS short_movie_count,
+       shortmovies.rating
+FROM
+  (SELECT film.film_ID,
+          film.rating
+   FROM film
+   WHERE film.length <=100) AS shortmovies -- subquery renamed shortmovies
+WHERE shortmovies.rating IN ('G', 'PG', 'PG-13')   
+GROUP BY shortmovies.rating;
